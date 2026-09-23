@@ -1,19 +1,19 @@
-Chen, X. and Shen, X. (1998). Sieve extremum estimates for weakly dependent data. *Econometrica*, 66, 289--314.
+Chen, X. and Shen, X. (1998). Sieve extremum estimates for weakly dependent data. Econometrica, 66, 289--314.
 
-Chen, X. and White, H. (1999). Improved rates and asymptotic normality for nonparametric neural network estimators. *IEEE Transactions on Information Theory*, 45, 682--691.
+Chen, X. and White, H. (1999). Improved rates and asymptotic normality for nonparametric neural network estimators. IEEE Transactions on Information Theory, 45, 682--691.
  
-Hornik, K., Stinchcombe, M. and White, H. (1989). Multilayer feedforward networks are universal approximators. *Neural Networks*, 2, 359--366.
+Hornik, K., Stinchcombe, M. and White, H. (1989). Multilayer feedforward networks are universal approximators. Neural Networks, 2, 359--366.
  
-Newey, W. and West, K. (1987). A simple, positive semi-definite, heteroskedasticity and autocorrelation consistent covariance matrix. *Econometrica*, 55, 703--708.
+Newey, W. and West, K. (1987). A simple, positive semi-definite, heteroskedasticity and autocorrelation consistent covariance matrix. Econometrica, 55, 703--708.
  
-Norets, A. (2012). Estimation of dynamic discrete choice models using artificial neural network approximations. *Econometric Reviews*, 31, 84--106.
+Norets, A. (2012). Estimation of dynamic discrete choice models using artificial neural network approximations. Econometric Reviews, 31, 84--106.
  
 Norets, A., and Shimizu, K. (2024). Semiparametric Bayesian estimation of dynamic discrete choice models. Journal of Econometrics, 2.
  
-Rust, J. (1987). Optimal replacement of GMC bus engines: an empirical model of Harold Zurcher. *Econometrica*, 55, 999--1033.
+Rust, J. (1987). Optimal replacement of GMC bus engines: an empirical model of Harold Zurcher. Econometrica, 55, 999--1033.
  
-Rust, J. (1997). Using randomization to break the curse of dimensionality. *Econometrica*, 65, 487--516.
+Rust, J. (1997). Using randomization to break the curse of dimensionality. Econometrica, 65, 487--516.
  
-White, H. (1990). Connectionist nonparametric regression: multilayer feedforward networks can learn arbitrary mappings. *Neural Networks*, 3, 535--549.
+White, H. (1990). Connectionist nonparametric regression: multilayer feedforward networks can learn arbitrary mappings. Neural Networks, 3, 535--549.
  
 
